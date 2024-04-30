@@ -8,7 +8,7 @@
 -->
 
 # Test with Actions
-**Hello, *world*!**
+***Hello, world!***
 _Create workflows that enable you to use Continuous Integration (CI) for your projects._
 
 </header>
